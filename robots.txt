@@ -1,0 +1,30 @@
+# Welcome, human and AI visitors alike.
+# This site is intended to be read by people, search engines, and AI agents.
+
+User-agent: *
+Allow: /
+
+# AI crawlers are explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Machine-readable summaries live at /llms.txt and /llms-full.txt
+Sitemap: https://rohanwilkho.github.io/sitemap.xml

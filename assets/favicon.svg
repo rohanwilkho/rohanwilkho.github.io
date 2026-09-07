@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- W monogram: Wilkho. Institutional blue fill, IBM Plex Sans, matches the site's current design system. -->
+  <rect width="64" height="64" rx="14" fill="#2451A4"/>
+  <text x="32" y="45" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="40" font-weight="700" fill="#FFFFFF">W</text>
+</svg>

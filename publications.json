@@ -1,0 +1,229 @@
+{
+  "author": "Rohan Singh Wilkho",
+  "generated": "2026-08-17",
+  "note": "DOIs marked TODO await final identifiers. Citation counts from Google Scholar as recorded in the CV.",
+  "journal_articles": [
+    {
+      "id": "J16",
+      "authors": ["Wilkho, R.S.", "Feng, Z.", "Herman, J.", "Galelli, S."],
+      "title": "Decoding decision-making in managed hydrologic systems with inverse reinforcement learning",
+      "venue": "Water Resources Research",
+      "status": "under review (2nd round)",
+      "theme": "water-flood",
+      "doi": "TODO"
+    },
+    {
+      "id": "J15",
+      "authors": ["Maghaydah, A.", "Wilkho, R.S.", "Gharaibeh, N.G."],
+      "equal_contribution": ["Maghaydah, A.", "Wilkho, R.S."],
+      "title": "Outlier-Based Analysis of Community Flood Resilience: A Case Study from Harris County, Texas",
+      "venue": "ASCE Natural Hazards Review",
+      "status": "under review (3rd round)",
+      "theme": "water-flood",
+      "doi": "TODO"
+    },
+    {
+      "id": "J14",
+      "authors": ["Huang, A.", "Wilkho, R.S.", "Gharaibeh, N.G."],
+      "title": "Constraint-Based DEM Enhancement Using LiDAR Data at Sparse Highway-Bridge Locations",
+      "venue": "ASCE Journal of Surveying Engineering",
+      "year": 2026,
+      "volume": "152",
+      "issue": "4",
+      "pages": "05026006",
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "TODO"
+    },
+    {
+      "id": "J13",
+      "authors": ["Mandal, D.", "Zou, L.", "Wadhwa, A.", "Wilkho, R.S.", "Cai, Z.", "Zhou, B.", "Ye, X.", "Newman, G.", "Gharaibeh, N.", "Güneralp, B."],
+      "title": "FlowsDT: A Geospatial Digital Twin for Navigating Urban Flood Dynamics",
+      "venue": "Computers, Environment and Urban Systems",
+      "year": 2026,
+      "volume": "126",
+      "pages": "102414",
+      "citations": 3,
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "TODO"
+    },
+    {
+      "id": "J12",
+      "authors": ["Wilkho, R.S.", "Gharaibeh, N.G."],
+      "title": "FF-NER: A named entity recognition model for harvesting web-based information about flash floods and related infrastructure impacts",
+      "venue": "International Journal of Disaster Risk Reduction",
+      "year": 2025,
+      "volume": "125",
+      "pages": "105604",
+      "citations": 9,
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "10.1016/j.ijdrr.2025.105604"
+    },
+    {
+      "id": "J11",
+      "authors": ["Wilkho, R.S.", "Gharaibeh, N.G.", "Chang, S."],
+      "title": "A GIS-based tool for dynamic assessment of community susceptibility to flash flooding",
+      "venue": "Journal of Flood Risk Management",
+      "year": 2025,
+      "volume": "18",
+      "issue": "1",
+      "pages": "e13049",
+      "citations": 8,
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "10.1111/jfr3.13049"
+    },
+    {
+      "id": "J10",
+      "authors": ["Wilkho, R.S.", "Chang, S.", "Gharaibeh, N.G."],
+      "title": "FF-BERT: A BERT-based ensemble for automated classification of web-based text on flash flood events",
+      "venue": "Advanced Engineering Informatics",
+      "year": 2024,
+      "volume": "59",
+      "pages": "102293",
+      "citations": 58,
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "10.1016/j.aei.2023.102293"
+    },
+    {
+      "id": "J9",
+      "authors": ["Wilkho, R.S.", "Gharaibeh, N.G.", "Chang, S.", "Zou, L."],
+      "title": "FF-IR: An information retrieval system for flash flood events developed by integrating public-domain data and machine learning",
+      "venue": "Environmental Modelling & Software",
+      "year": 2023,
+      "volume": "167",
+      "pages": "105734",
+      "citations": 10,
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "10.1016/j.envsoft.2023.105734"
+    },
+    {
+      "id": "J8",
+      "authors": ["Chang, S.", "Wilkho, R.S.", "Gharaibeh, N.", "Sansom, G.", "Meyer, M.", "Olivera, F.", "Zou, L."],
+      "title": "Environmental, climatic, and situational factors influencing the probability of fatality or injury occurrence in flash flooding: a rare event logistic regression predictive model",
+      "venue": "Natural Hazards",
+      "year": 2023,
+      "volume": "116",
+      "issue": "3",
+      "pages": "3957-3978",
+      "citations": 10,
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "TODO"
+    },
+    {
+      "id": "J7",
+      "authors": ["Chang, S.", "Wilkho, R.S.", "Gharaibeh, N.G.", "Lyle, S.", "Zou, L."],
+      "title": "Predicting Flash Flood Economic Damage at the Community Scale: Empirical Zero-Inflated Model with Semicontinuous Data",
+      "venue": "ASCE Natural Hazards Review",
+      "year": 2023,
+      "volume": "24",
+      "issue": "4",
+      "pages": "04023030",
+      "citations": 10,
+      "status": "published",
+      "theme": "water-flood",
+      "doi": "TODO"
+    },
+    {
+      "id": "J6",
+      "authors": ["Ahmed, A.", "Sahu, S.", "Wilkho, R.S.", "Gharaibeh, N.G."],
+      "title": "CulvertVision2.0: Advancing Automated Culvert Condition Assessment via Multi-modal AI",
+      "venue": "ASCE Journal of Computing in Civil Engineering",
+      "status": "in preparation",
+      "theme": "infrastructure"
+    },
+    {
+      "id": "J5",
+      "authors": ["Wilkho, R.S.", "Gharaibeh, N.G."],
+      "title": "Satellite-to-Street: A Generative Deep Learning Framework for Pavement Condition Assessment from Satellite Imagery",
+      "venue": "ASCE Journal of Computing in Civil Engineering",
+      "status": "submitted",
+      "theme": "infrastructure"
+    },
+    {
+      "id": "J4",
+      "authors": ["Wilkho, R.S.", "Huang, X.", "Pitta, V.", "Ahmed, A.", "Gharaibeh, N.G."],
+      "title": "CulvertVision: Advancing AI-Augmented Inspection and Condition Assessment of Culverts",
+      "venue": "Journal of Infrastructure Systems",
+      "year": 2026,
+      "volume": "32",
+      "issue": "4",
+      "pages": "04026026",
+      "status": "published",
+      "theme": "infrastructure",
+      "doi": "10.1061/JITSE4.ISENG-2984"
+    },
+    {
+      "id": "J3",
+      "authors": ["Mandal, D.", "Zou, L.", "Wilkho, R.S.", "Abedin, J.", "Zhou, B.", "Cai, H.", "Baig, F.", "Gharaibeh, N.G.", "Lam, N."],
+      "title": "PRIME: A CyberGIS Platform for Resilience Inference Measurement and Enhancement",
+      "venue": "Computers, Environment and Urban Systems",
+      "year": 2024,
+      "volume": "114",
+      "pages": "102197",
+      "citations": 8,
+      "status": "published",
+      "theme": "infrastructure",
+      "doi": "TODO"
+    },
+    {
+      "id": "J2",
+      "authors": ["Wilkho, R.S.", "Guha, H."],
+      "title": "Acoustic Assessment of a Precast Factory in Kolkata, India",
+      "venue": "Journal of Management and Sustainability",
+      "year": 2017,
+      "volume": "7",
+      "issue": "4",
+      "pages": "142",
+      "status": "published",
+      "theme": "earlier-work"
+    },
+    {
+      "id": "J1",
+      "authors": ["Wilkho, R.S.", "Ashraf, S.S.", "Das, M.S.", "Thakur, B.", "Roy, A."],
+      "title": "Assessment of the Sustainability Performance of a Typical Residential Apartment in Kolkata",
+      "venue": "Journal of Civil Engineering and Environmental Technology",
+      "year": 2016,
+      "status": "published",
+      "theme": "earlier-work"
+    }
+  ],
+  "conference_articles": [
+    {
+      "id": "CA2",
+      "authors": ["Wilkho, R.S.", "Gharaibeh, N.G."],
+      "title": "A GIS Tool for Assessing Community Susceptibility to Flash Flooding",
+      "venue": "2023 ASFPM National Conference, Raleigh, NC",
+      "year": 2023,
+      "award": "2nd prize, national student paper competition"
+    },
+    {
+      "id": "CA1",
+      "authors": ["Wilkho, R.S.", "Guha, H."],
+      "title": "Sustainable building policy management in Kolkata, India",
+      "venue": "2017 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)",
+      "year": 2017,
+      "pages": "1631-1635"
+    }
+  ],
+  "conference_proceedings": [
+    {"id": "CP13", "authors": ["Wilkho, R.S.", "Gharaibeh, N.G."], "title": "From Satellites to Streets: A Remote Sensing and AI Framework for Pavement Management", "venue": "15th National Conference on Transportation Asset Management, Chicago, IL", "year": 2025},
+    {"id": "CP12", "authors": ["Wilkho, R.S.", "Gharaibeh, N.G."], "title": "DFFS: Dynamic Flash Flood Susceptibility", "venue": "AGU Fall Meeting, San Francisco, CA", "year": 2023},
+    {"id": "CP11", "authors": ["Mandal, D.", "Zou, L.", "Wilkho, R.S.", "Abedin, J.", "Zhou, B.", "Cai, H."], "title": "Empowering Disaster Resilience through Cyberinfrastructure: A Multi-Scale Approach to Visualization and Management", "venue": "AGU Fall Meeting, San Francisco, CA", "year": 2023},
+    {"id": "CP10", "authors": ["Mandal, D.", "Zou, L.", "Wilkho, R.S.", "Abedin, J.", "Zhou, B.", "Cai, H.", "Baig, F."], "title": "Disaster Resilience in the Age of Cyberinfrastructure: A Customizable Approach", "venue": "Southwest AAG Annual Meeting, Laredo, TX", "year": 2023},
+    {"id": "CP9", "authors": ["Wilkho, R.S.", "Gharaibeh, N.G."], "title": "Flood Finder: An AI-enhanced internet search and information retrieval system for flash flooding", "venue": "Researchers Meeting, Natural Hazards Center, University of Colorado Boulder", "year": 2023},
+    {"id": "CP8", "authors": ["Wilkho, R.S.", "Gharaibeh, N.G."], "title": "Using Causal Discovery to Assess Flash Flood Susceptibility", "venue": "2023 Disaster PRIMR, Prairie View A&M University, TX", "year": 2023},
+    {"id": "CP7", "authors": ["Wilkho, R.S.", "Chang, S.", "Gharaibeh, N.G."], "title": "Community Susceptibility to Flash Flooding in Three Texas Urban Regions", "venue": "Researchers Meeting, Natural Hazards Center, University of Colorado Boulder", "year": 2022},
+    {"id": "CP6", "authors": ["Wilkho, R.S.", "Chang, S.", "Gharaibeh, N.G."], "title": "Dynamic Assessment of Flash Flood Susceptibility at the Census Tract Level", "venue": "2022 Disaster PRIMR, University of North Texas, Denton, TX", "year": 2022},
+    {"id": "CP5", "authors": ["Wilkho, R.S.", "Chang, S.", "Gharaibeh, N.G.", "Zou, L."], "title": "Domain Specific Internet Search Engine for Flash Flood Events", "venue": "Researchers Meeting, Natural Hazards Center, University of Colorado Boulder", "year": 2021},
+    {"id": "CP4", "authors": ["Wilkho, R.S.", "Chang, S.", "Gharaibeh, N.G.", "Zou, L."], "title": "Assembling Micro-Data on Flash Flood Events", "venue": "Disaster PRIMR, Texas A&M University, College Station, TX", "year": 2021},
+    {"id": "CP3", "authors": ["Chang, S.", "Wilkho, R.S.", "Gharaibeh, N.G.", "Sansom, G.", "Olivera, F.", "Meyer, M."], "title": "Characteristics of Texas Communities Impacted by Flash Flooding", "venue": "Disaster PRIMR, Texas A&M University, College Station, TX", "year": 2021},
+    {"id": "CP2", "authors": ["Gharaibeh, N.G.", "Wilkho, R.S.", "Chang, S.", "Meyer, M.", "Olivera, F.", "Zou, L.", "Sansom, G."], "title": "Ongoing Research on Reducing the Safety Risk of Flash Flooding", "venue": "Texas Floodplain Management Association Summit", "year": 2020},
+    {"id": "CP1", "authors": ["Wilkho, R.S.", "Ashraf, S.S.", "Das, M.S.", "Thakur, B.", "Roy, A."], "title": "Assessment of the Sustainability Performance of a Typical Residential Apartment in Kolkata", "venue": "International Conference on Emerging Technologies in Civil Engineering, Architecture and Environmental Engineering for Global Sustainability, New Delhi, India", "year": 2016}
+  ]
+}

@@ -1,0 +1,74 @@
+# Rohan Singh Wilkho: full site content
+
+Schmidt AI in Science Postdoctoral Fellow (he/him), School of Civil and Environmental Engineering, Cornell University.
+Email: rohan.wins@cornell.edu · 527 College Avenue, Ithaca, NY 14850.
+
+About: Rohan Singh Wilkho is an Eric and Wendy Schmidt AI in Science Postdoctoral Fellow in the School of Civil and Environmental Engineering at Cornell University, working with Prof. Stefano Galelli (https://www.duffield.cornell.edu/people/stefano-galelli/). He uses artificial intelligence and machine learning to study managed water systems (dams, canals, and diversions) that, along with hydroclimatic forcing, shape water flow in the world's rivers. Before joining Cornell, he was a Postdoctoral Researcher and Visiting Lecturer in Civil Engineering at Texas A&M University, where he earned a PhD in Civil Engineering and a Master of Computer Science, both in 2024, advised by Prof. Nasir Gharaibeh. Earlier, he worked as a tunnel engineer on India's first underwater tunnel project (2016–2018), after earning a bachelor's in Civil Engineering from Jadavpur University in 2016.
+
+Credentials: Schmidt AI in Science Fellow (PI, $160,000, Schmidt Sciences) · PhD Civil Engineering (4.0 GPA) + Master of Computer Science (AI/ML specialization), Texas A&M University · Bachelor's, Civil Engineering, Jadavpur University.
+
+Research interests: managed water systems · inverse reinforcement learning & physics-informed AI · flood resilience & disaster informatics · agentic systems & natural language processing · multi-modal AI & remote sensing.
+
+## Research
+
+Most of the world's major river basins are managed systems, operated by human judgment that hydrologic models cannot see and operating manuals do not record. His research program makes AI and water systems engineering inform each other: the coupling between human decisions and physical outcomes exposes limitations in predictive modeling, which cannot capture causality and human intent. These limitations motivate methodological innovations in inverse reinforcement learning, physics-informed AI, and multi-modal AI, which provide the foundation to characterize continuously evolving human-water interactions. The central goal of his research is to understand how the decision logic of managed water system operators must evolve to sustain water security and flood control under hydroclimatic non-stationarity and a changing climate.
+
+His research program is built on three thrusts:
+
+1. Decoding the behavioral logic of water system operators, to recover the objectives that actually govern their decisions. Evidence: Water Resources Research (under review); Empire AI computing grant (~8,570 NVIDIA H100 GPU-hours).
+2. Reconstructing community-scale performance records, to reveal what communities experience when those decisions fail. Evidence: Advanced Engineering Informatics (FF-BERT, 58 citations), Environmental Modelling & Software, International Journal of Disaster Risk Reduction.
+3. Diagnosing performance under compound pressures, to identify how operating logic must evolve to sustain design performance.
+
+His AI methods and expertise have also extended to other civil engineering domains, with published studies in disaster resilience (PRIME, DFFS, FlowsDT) and infrastructure condition assessment (CulvertVision, Satellite-to-Street). Road-Lens, a satellites-to-streets pavement framework, is commercialized through the spin-off InfraFrame under a $300,000 FHWA Accelerating Market Readiness award.
+
+News: Secured Empire AI and NSF ACCESS computing grants for GPU compute resources (Nov 2025, Feb 2026) · Selected to the Early Career Editorial Board, Sustainable Cities and Society (Jan 2026) · Invited talk, AIMS 2026, University of California, San Diego (June 2026) · Water Resources Research paper under review (2026).
+
+Supported by: Schmidt Sciences, US Army Corps of Engineers, Texas Department of Transportation, and National Science Foundation. Full grant list under Funding below.
+
+Service: (1) Peer reviewer (44 reviews, 20 journals); (2) Editorial team, Sustainable Cities and Society and Environmental Management and Sustainable Development.
+
+Mentorship: Co-mentored nine graduate students (Ph.D., M.S., and M.Eng.) at Cornell University and Texas A&M University.
+
+## Selected publications
+
+- Wilkho, R.S., Feng, Z., Herman, J., & Galelli, S. "Decoding decision-making in managed hydrologic systems with inverse reinforcement learning." Water Resources Research. Under review.
+- Wilkho, R.S., Chang, S., & Gharaibeh, N.G. (2024). "FF-BERT: A BERT-based ensemble for automated classification of web-based text on flash flood events." Advanced Engineering Informatics, 59, 102293. 58 citations. https://doi.org/10.1016/j.aei.2023.102293
+- Wilkho, R.S., & Gharaibeh, N.G. (2025). "FF-NER: A named entity recognition model for harvesting web-based information about flash floods and related infrastructure impacts." International Journal of Disaster Risk Reduction, 125, 105604. https://doi.org/10.1016/j.ijdrr.2025.105604
+- Wilkho, R.S., Gharaibeh, N.G., Chang, S., & Zou, L. (2023). "FF-IR: An information retrieval system for flash flood events developed by integrating public-domain data and machine learning." Environmental Modelling & Software, 167, 105734. https://doi.org/10.1016/j.envsoft.2023.105734
+- Wilkho, R.S., Gharaibeh, N.G., & Chang, S. (2025). "A GIS-based tool for dynamic assessment of community susceptibility to flash flooding." Journal of Flood Risk Management, 18(1), e13049. https://doi.org/10.1111/jfr3.13049
+- Wilkho, R.S., Huang, X., Pitta, V., Ahmed, A., & Gharaibeh, N.G. (2026). "CulvertVision: Advancing AI-Augmented Inspection and Condition Assessment of Culverts." Journal of Infrastructure Systems, 32(4), 04026026. https://doi.org/10.1061/JITSE4.ISENG-2984
+- Mandal, D., Zou, L., Wadhwa, A., Wilkho, R.S., et al. (2026). "FlowsDT: A Geospatial Digital Twin for Navigating Urban Flood Dynamics." Computers, Environment and Urban Systems, 126, 102414.
+
+Complete record: publications.bib (BibTeX) and publications.json on this site; Google Scholar profile linked from the page.
+
+## Funding
+
+- Empire AI (2026). "Learning and Simulating Human Actions via Inverse Reinforcement Learning for Resilient River Basin Management." Role: Co-PI. PI: Stefano Galelli, Cornell University. High-performance computing resources.
+- NSF ACCESS (2025). "Learning and Simulating Human Actions via Inverse Reinforcement Learning for Sustainable River Basin Management." Role: Co-PI. PI: Stefano Galelli, Cornell University. High-performance computing resources.
+- FHWA Accelerating Market Readiness (2025). "Integrated Remote Sensing and AI for Pavement Condition Monitoring." Role: Co-PI, Lead Developer. PI: Nasir G. Gharaibeh, Texas A&M University. Research grant, $300,000.
+- Schmidt AI in Science Postdoctoral Fellowship (2025). "Learning and Simulating Human Actions via Inverse Reinforcement Learning for Resilient River Basin Management." Role: PI. Research grant, $160,000.
+- NSF #1931301 (2019). "Reducing the Human Impacts of Flash Floods: Development of Microdata and Causal Model to Inform Mitigation and Preparedness." Role: Co-author, Participant, Lead Developer. PI: Nasir G. Gharaibeh, Texas A&M University. Research grant, $350,000.
+
+## Teaching Experience
+
+- CVEN 303: Civil Engineering Measurement, Texas A&M University. Visiting Lecturer, Spring 2025. Designed and taught for 68 undergraduates; field applications integrated with surveying theory.
+- Graduate Teaching Assistant, Texas A&M University, 2022–2024. Designed laboratory materials for 160+ students.
+
+## Selected Invited Talks & Workshops
+
+Talks and podcast appearances, most recent first:
+- "Inverse Reinforcement Learning" (CS 6703, AI for Science, Cornell University, September 2026)
+- "What Are They Optimizing For? Inverse Reinforcement Learning for Inferring Hidden Objectives from Observed Decisions" (AI for Multimodal Science, AIMS 2026, University of California, San Diego, June 2026). https://aims-2026.vercel.app/
+- "Modeling the Operations of Reservoir Systems with LLMs and Inverse Reinforcement Learning" (MultiSector Dynamics, online, June 2026). Arnold, W., Giuliani, M., & Wilkho, R. S. (2026, June 25). MSD CoP Webinar: Modeling the Operations of Reservoir Systems with LLMs and Inverse Reinforcement Learning. MSD-LIVE Data Repository. https://doi.org/10.57931/3375561
+- NOAA Workshop on Advancing Social and Physical Science Data to Reduce Flood Losses (Natural Hazards Center, University of Colorado Boulder, April 2026). https://hazards.colorado.edu/news/center-news/becoming-flood-fluent
+- "Stochastic Model Predictive Control" (CEE 6400, Cornell University, April 2026)
+- Podcast guest, "How We Build…" (February 2026). https://www.youtube.com/watch?v=ojumqvlHa8A
+- "Cognitive Civil Systems: From Multimodal Sensing to Behavioral Sensing" (Department of Civil Engineering, Indian Institute of Technology, Bombay, December 2025)
+
+## CV
+
+Full CV PDF: https://rohanwilkho.github.io/assets/Wilkho_RohanSingh_CV.pdf
+
+## Collaboration
+
+Interested in talking, sharing ideas, or collaborating on AI for water and infrastructure? Email rohan.wins@cornell.edu. Please use the subject line "AI for water/infrastructure."

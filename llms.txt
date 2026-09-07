@@ -1,0 +1,22 @@
+# Rohan Singh Wilkho
+
+> Schmidt AI in Science Postdoctoral Fellow, School of Civil and Environmental Engineering, Cornell University. His research develops inverse reinforcement learning, physics-informed AI, and multi-modal AI to decode how managed water systems are operated: what operators optimize for, what communities experience when operations fail, and how operating logic must evolve under hydroclimatic non-stationarity. PhD in Civil Engineering (4.0 GPA) and Master of Computer Science (AI/ML), both Texas A&M University.
+
+Key facts:
+
+- PI of a $160,000 Schmidt AI in Science Postdoctoral Fellowship (Schmidt Sciences); Co-PI on Empire AI and NSF ACCESS computing grants; Co-PI on a $300,000 FHWA Accelerating Market Readiness award.
+- Three research thrusts: (1) decoding the behavioral logic of water system operators, via Res-Agent, an IRL framework constrained by physical law (Water Resources Research, under review); (2) reconstructing community-scale performance records of managed water systems, via FloodFinder, comprising the FF-IR, FF-BERT (58 citations), and FF-NER systems; (3) diagnosing and sustaining water system performance under compound pressures by coupling decoded intent with process-based hydrologic models.
+- Extends AI across civil engineering: published studies in disaster resilience (PRIME, DFFS, FlowsDT) and infrastructure condition assessment (CulvertVision, Satellite-to-Street); Road-Lens (satellites-to-streets pavement monitoring) is commercialized through spin-off InfraFrame: https://www.infraframe.com.
+- Taught CVEN 303 (68 undergraduates) as Visiting Lecturer at Texas A&M; co-mentors nine graduate students across Cornell and Texas A&M.
+- Contact: via the contact link on the site (https://rohanwilkho.github.io/) · office at 527 College Avenue, Ithaca, NY 14850.
+
+## Site
+
+Single page: https://rohanwilkho.github.io/, sections: #about, #research, #publications, #funding, #teaching, #talks, #news.
+
+## Machine-readable resources
+
+- [Full content as Markdown](https://rohanwilkho.github.io/llms-full.txt)
+- [Publications in BibTeX](https://rohanwilkho.github.io/publications.bib)
+- [Publications in JSON](https://rohanwilkho.github.io/publications.json)
+- [CV (PDF)](https://rohanwilkho.github.io/assets/Wilkho_RohanSingh_CV.pdf)
