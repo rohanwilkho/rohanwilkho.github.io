@@ -238,12 +238,15 @@ section[id], footer[id] { scroll-margin-top: 4.5rem; }
   width: 2.2rem;
   height: 2.2rem;
   border-radius: 999px;
-  border: 1px solid var(--rule);
+  border: 1px solid var(--ink-soft);
   color: var(--ink-soft);
   background: var(--bg);
 }
 .icon-link img { width: 1.15rem; height: 1.15rem; object-fit: contain; display: block; }
 .icon-link:hover { background: var(--accent-soft); border-color: var(--teal); }
+/* github.svg is hardcoded to GitHub's near-black brand color (#24292E), not currentColor,
+   so it disappears against the dark theme's dark card background — invert it in dark mode only. */
+:root[data-theme="dark"] .icon-link img[src$="github.svg"] { filter: invert(1); }
 .sidebar .btn {
   display: block;
   text-align: center;
