@@ -138,7 +138,7 @@ section[id], footer[id] { scroll-margin-top: 4.5rem; }
 
 .theme-toggle {
   background: none;
-  border: 1px solid var(--rule);
+  border: 1px solid var(--ink-soft);
   border-radius: 999px;
   width: 2rem;
   height: 2rem;
